@@ -9,6 +9,5 @@ setup(
     ],
     author='Jonatan Gani',
     author_email='JonatanGani@Protonmail.com',
-    description='Complete logging on separate process',
-    url='https://github.com/yourusername/yourpackagename',
+    description='Complete logging on separate process'
 )
