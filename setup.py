@@ -5,14 +5,7 @@ setup(
     version='1',
     packages=find_packages(),
     install_requires=[
-        'os', 
-        'logging', 
-        'time', 
-        'psutil' ,
-        'multiprocessing' ,
-        'datetime', 
-        'queue',
-        'logging'
+        'psutil'
     ],
     author='Jonatan Gani',
     author_email='JonatanGani@Protonmail.com',
